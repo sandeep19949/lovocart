@@ -27,4 +27,5 @@ delVersion>4.0.0</modelVersion>
 		<finalName>gamutkart</finalName>
 	</build>
 	
-</project>
+<ss add war file ss>
+/project>
